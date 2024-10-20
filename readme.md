@@ -29,7 +29,7 @@ GET /usuarios
   Utilizar String Param (token_param) :
   http://127.0.0.1:2020/usuarios?token_param=205d0f70631e4719dc278ae11b41d5
 
-- 
+
 - **Execute a aplicação:**:  
   ```json
   uvicorn app.main:app --reload
